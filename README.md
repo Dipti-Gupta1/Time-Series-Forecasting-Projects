@@ -55,25 +55,27 @@ Method: Long Short-Term Memory (LSTM)
 Library: Darts (PyTorch-based)
 
 Key Features: ✅ Deep learning-based sequence modeling
-✅ Feature engineering with time attributes
-✅ Hyperparameter tuning with Grid Search
-✅ GPU acceleration for faster training
-✅ Cross-validation with rolling forecasting
-📂 Go to LSTM Project
+* ✅ Feature engineering with time attributes
+* ✅ Hyperparameter tuning with Grid Search
+* ✅ GPU acceleration for faster training
+* ✅ Cross-validation with rolling forecasting
+* 📂 Go to LSTM Project
 
 ## 📌 2️⃣ Temporal Fusion Transformer (TFT) Forecasting
 Method: Temporal Fusion Transformer (TFT)
 Library: Darts
-Key Features: ✅ Multi-horizon forecasting
-✅ Attention mechanisms for interpretability
-✅ Dynamic feature embeddings
+Key Features: 
+* ✅ Multi-horizon forecasting
+* ✅ Attention mechanisms for interpretability
+* ✅ Dynamic feature embeddings
 📂 Go to TFT Project
 
 ## 📌 3️⃣ Prophet Forecasting
 Method: Facebook Prophet
 Library: Prophet
-Key Features: ✅ Automatic handling of seasonality & holidays
-✅ Best for business forecasting applications
+Key Features: 
+* ✅ Automatic handling of seasonality & holidays
+* ✅ Best for business forecasting applications
 📂 Go to Prophet Project
 
 ## Getting Started
