@@ -30,6 +30,9 @@ Traditional methods like ARIMA and Exponential Smoothing are useful, but deep le
 
 Each forecasting method is organized in a separate folder:  
 
+## Repository Structure
+
+```plaintext
 Time-Series-Forecasting-Projects/
 │── LSTM_Forecasting/            # LSTM-based forecasting
 │   ├── lstm_forecasting.py
@@ -43,7 +46,7 @@ Time-Series-Forecasting-Projects/
 │   ├── prophet_forecasting.py
 │   ├── README.md
 │── README.md  <-- Main repo overview
-
+```
 
 ## Projects Overview
 
@@ -73,19 +76,27 @@ Key Features: ✅ Automatic handling of seasonality & holidays
 ✅ Best for business forecasting applications
 📂 Go to Prophet Project
 
+## Getting Started
 
-### Installation & Setup
-
-Clone this repository:
-
-git clone https://github.com/your-username/Time-Series-Forecasting-Projects.git
-cd Time-Series-Forecasting-Projects
-
-Create a virtual environment (optional but recommended):
-
-python -m venv ts_env
-source ts_env/bin/activate  # On Windows: ts_env\Scripts\activate
-
-
-Install dependencies:
+### Installation
+Ensure you have Python installed, then install dependencies:
+```bash
 pip install -r requirements.txt
+```
+
+### Usage
+Run the desired forecasting model script:
+```bash
+python LSTM_Forecasting/lstm_forecasting.py
+```
+
+## Contributing
+Feel free to fork this repository and contribute improvements or new forecasting models!
+
+
+
+
+
+
+
+
