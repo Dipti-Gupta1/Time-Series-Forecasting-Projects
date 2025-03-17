@@ -1,0 +1,22 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tqdm
+
+# Deep Learning (For LSTM & TFT)
+torch
+pytorch-lightning
+darts
+
+# Time Series Models
+statsmodels  # For ARIMA
+pmdarima     # Auto-ARIMA
+prophet      # Facebook Prophet
+auto-ts      # Amazon AutoTS
+
+# Mixers & Additional Forecasting Techniques
+tensorflow
+transformers
