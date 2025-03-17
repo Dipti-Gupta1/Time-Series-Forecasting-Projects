@@ -5,7 +5,7 @@ This repository contains multiple **Time Series Forecasting** projects implement
 
 ---
 
-## 📚 Course Information  
+#### 📚 Course Information  
 These projects are part of the **Udemy course**:  
 📌 **Course Name:** [Time Series Forecasting with Python](https://www.udemy.com/course/forecasting-python/learn/lecture/45931761?start=510#questions)  
 📌 **Platform:** Udemy  
@@ -26,11 +26,11 @@ Traditional methods like ARIMA and Exponential Smoothing are useful, but deep le
 
 ---
 
-## 📂 Project Structure  
+### 📂 Project Structure  
 
 Each forecasting method is organized in a separate folder:  
 
-## Repository Structure
+### Repository Structure
 
 ```plaintext
 Time-Series-Forecasting-Projects/
@@ -48,9 +48,9 @@ Time-Series-Forecasting-Projects/
 │── README.md  <-- Main repo overview
 ```
 
-## Projects Overview
+### Projects Overview
 
-## 📌 1️⃣ LSTM Forecasting
+#### 📌 1️⃣ LSTM Forecasting
 Method: Long Short-Term Memory (LSTM)
 Library: Darts (PyTorch-based)
 
@@ -61,7 +61,7 @@ Key Features: ✅ Deep learning-based sequence modeling
 * ✅ Cross-validation with rolling forecasting
 * 📂 Go to LSTM Project
 
-## 📌 2️⃣ Temporal Fusion Transformer (TFT) Forecasting
+#### 📌 2️⃣ Temporal Fusion Transformer (TFT) Forecasting
 Method: Temporal Fusion Transformer (TFT)
 Library: Darts
 Key Features: 
@@ -70,7 +70,7 @@ Key Features:
 * ✅ Dynamic feature embeddings
 📂 Go to TFT Project
 
-## 📌 3️⃣ Prophet Forecasting
+#### 📌 3️⃣ Prophet Forecasting
 Method: Facebook Prophet
 Library: Prophet
 Key Features: 
@@ -78,21 +78,21 @@ Key Features:
 * ✅ Best for business forecasting applications
 📂 Go to Prophet Project
 
-## Getting Started
+### Getting Started
 
-### Installation
+#### Installation
 Ensure you have Python installed, then install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-### Usage
+#### Usage
 Run the desired forecasting model script:
 ```bash
 python LSTM_Forecasting/lstm_forecasting.py
 ```
 
-## Contributing
+### Contributing
 Feel free to fork this repository and contribute improvements or new forecasting models!
 
 
