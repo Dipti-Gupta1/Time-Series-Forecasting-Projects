@@ -92,7 +92,7 @@ Run the desired forecasting model script:
 python LSTM_Forecasting/lstm_forecasting.py
 ```
 
-### Contributing
+#### Contributing
 Feel free to fork this repository and contribute improvements or new forecasting models!
 
 
