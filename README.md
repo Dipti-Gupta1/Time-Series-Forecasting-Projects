@@ -14,11 +14,11 @@ These projects are part of the **Udemy course**:
 
 Time series forecasting is the process of predicting future values based on past observations. It is widely used in:
 
-📈 Stock market & financial forecasting
-🔋 Energy demand prediction
-🛒 Retail sales forecasting
-🚛 Supply chain optimization
-📊 Weather forecasting
+* 📈 Stock market & financial forecasting
+* 🔋 Energy demand prediction
+* 🛒 Retail sales forecasting
+* 🚛 Supply chain optimization
+* 📊 Weather forecasting
 
 
 Traditional methods like ARIMA and Exponential Smoothing are useful, but deep learning models like LSTM and TFT can handle complex patterns, dependencies, and large datasets more effectively.
